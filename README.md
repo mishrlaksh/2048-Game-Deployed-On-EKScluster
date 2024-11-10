@@ -153,4 +153,4 @@ Congratulations! You successfully deployed the 2048 game on AWS EKS!
 
 --- 
 
-![2048 Game Screenshot](./images/2048.png)
+
